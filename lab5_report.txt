@@ -1,1 +1,4 @@
 Лабораторная работа 5
+Интеграция AI инструментов
+Решение задачи https://coderun.yandex.ru/problem/new-regulations
+AI использован: DeepSeek
